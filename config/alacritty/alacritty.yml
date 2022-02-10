@@ -1,0 +1,78 @@
+font:
+  normal:
+    # Font family
+    #
+    # Default:
+    #   - (macOS) Monaco
+    #   - (Linux/BSD) monospace
+    #   - (Windows) Consolas
+    family: JetBrainsMonoMedium Nerd Font
+
+    # The `style` can be specified to pick a specific face.
+    style: Regular
+
+  bold:
+    # Font family
+    #
+    # If the bold family is not specified, it will fall back to the
+    # value specified for the normal font.
+    family: JetBrainsMonoMedium Nerd Font
+
+    # The `style` can be specified to pick a specific face.
+    style: Bold
+
+  italic:
+    # Font family
+    #
+    # If the italic family is not specified, it will fall back to the
+    # value specified for the normal font.
+    family: JetBrainsMonoMedium Nerd Font
+
+    # The `style` can be specified to pick a specific face.
+    style: Italic
+
+  bold_italic:
+    # Font family
+    #
+    # If the bold italic family is not specified, it will fall back to the
+    # value specified for the normal font.
+    family: JetBrainsMonoMedium Nerd Font
+
+    # The `style` can be specified to pick a specific face.
+    style: Bold Italic
+
+  # Point size
+  size: 9.0
+
+colors:
+  cursor:
+    text: "#fefff2"
+    cursor: "#f0cc09"
+
+  selection:
+    text: "#b5b5b5"
+    background: "#18354f"
+
+  primary:
+    background: "#2C2C2C"
+    foreground: "#ffffff"
+
+  normal:
+    black: "#2C2C2C"
+    red: "#FF5555"
+    green: "#72D5A3"
+    yellow: "#F7B45E"
+    blue: "#93E0E3"
+    magenta: "#EC93D3"
+    cyan: "#EC757C"
+    white: "#ffffff"
+
+  bright:
+    black: "#2C2C2C"
+    red: "#FF5555"
+    green: "#72D5A3"
+    yellow: "#F7B45E"
+    blue: "#93E0E3"
+    magenta: "#EC93D3"
+    cyan: "#EC757C"
+    white: "#ffffff"
